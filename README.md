@@ -1,6 +1,6 @@
 # PlantGuard 🌱🐶
 
-PlantGuard is an ESP32-based smart plant monitoring system that combines IoT, FreeRTOS, and AI-powered object detection to protect and monitor outdoor plants.
+PlantGuard is an ESP32-based smart plant monitoring system that combines IoT, RTOS, and AI-powered object detection to protect and monitor outdoor plants.
 
 The system continuously measures soil moisture and sends Telegram notifications when watering is required. It also uses a distance sensor to detect nearby objects, activates an ESP32-CAM to capture an image, and leverages an AI detection service to identify dogs. When a dog is detected near the plant, the system immediately sends a Telegram alert with the detection result.
 
