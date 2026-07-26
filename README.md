@@ -1,4 +1,4 @@
-# 🪴 Smart Plant Guardian
+# 🪴 Plant Guard
 
 A FreeRTOS-based ESP32 firmware that watches over a single potted garden
 plant: it tracks soil moisture and alerts you when it's time to water, and
