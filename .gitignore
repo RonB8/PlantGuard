@@ -1,0 +1,7 @@
+.pio/
+.vscode/
+!.vscode/extensions.json
+.DS_Store
+*.o
+*.bak
+compile_commands.json
